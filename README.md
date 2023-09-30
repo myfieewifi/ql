@@ -8,7 +8,7 @@ docker exec -it qinglong bash
 
 2.执行脚本文件
 
-curl -fsSL https://raw.fastgit.org/myfieewifi/ql/main/dependence/QLDependency.sh | sh
+curl -fsSL https://ghproxy.com/raw.githubusercontent.com/myfieewifi/ql/main/dependence/QLDependency.sh | sh
 
 ---
 
@@ -20,4 +20,4 @@ docker exec -it qinglong bash
 
 2.执行脚本文件
 
-bash <(curl -ls https://raw.fastgit.org/myfieewifi/ql/main/bpxf/bpxf.sh)
+bash <(curl -ls https://ghproxy.com/raw.githubusercontent.com/myfieewifi/ql/main/bpxf/bpxf.sh)
